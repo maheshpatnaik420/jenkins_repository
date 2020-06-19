@@ -8,6 +8,7 @@ public class JenkinsProjApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(JenkinsProjApplication.class, args);
+		# added comment for CI verification
 	}
 
 }
